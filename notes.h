@@ -1,0 +1,12 @@
+const int NOTE_C  = 239;
+const int NOTE_CS = 225;
+const int NOTE_D  = 213;
+const int NOTE_DS = 201;
+const int NOTE_E  = 190;
+const int NOTE_F  = 179;
+const int NOTE_FS = 169;
+const int NOTE_G  = 159;
+const int NOTE_GS = 150;
+const int NOTE_A  = 142;
+const int NOTE_AS = 134;
+const int NOTE_B  = 127;
